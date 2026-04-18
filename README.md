@@ -104,8 +104,7 @@ It allows for better **player comparison, trend analysis, and strategy developme
 **Prasad Karade**  
 📧 Email: karadeprasad023@gmail.com 
 
-🔗 [LinkedIn](https://www.linkedin.com/in/prasad-karade-641799399/) 
-
+🔗 [LinkedIn](https://www.linkedin.com/in/prasad-karade-641799399/) |
 💻 [GitHub](https://github.com/Prasadg2023)  
 
 ---
